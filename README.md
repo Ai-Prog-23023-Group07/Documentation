@@ -36,7 +36,7 @@ HTML, CSS, JavaScriptなどで作成.
 - Maxi
 
 ### Overview
-SpringBootを使用してjavaで作成.
+SpringBootを使用してJavaで作成.
 
 Web UIからユーザ入力を受け取り, データベースから関連するデータを取得する.
 
