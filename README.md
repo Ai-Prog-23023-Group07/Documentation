@@ -44,7 +44,7 @@ Web UIからユーザ入力を受け取り, データベースから関連する
 
 ## データベース
 
-### Crater
+### Creater
 - Raiga
   
 ### Overview
