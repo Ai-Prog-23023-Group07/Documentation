@@ -32,7 +32,7 @@ HTML, CSS, JavaScriptなどで作成.
 
 ## コントローラ
 
-### Crater
+### Creater
 - Maxi
 
 ### Overview
