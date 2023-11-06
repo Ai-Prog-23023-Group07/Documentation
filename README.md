@@ -51,3 +51,9 @@ Web UIからユーザ入力を受け取り, データベースから関連する
 Neo4Jで作成
 
 データとそのリンクを保存 
+
+## 設計図
+![](img/MicrosoftTeams-image.png)
+
+## 役割分担
+![](img/yakuwari.png)
